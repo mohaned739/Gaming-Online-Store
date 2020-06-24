@@ -1,0 +1,14 @@
+#cont{
+    background: url("../images/register_bg.jpg");
+    background-size: 100%;
+height: 679.9px;
+    width: 100%;
+}
+
+#form_cont{
+    margin-top: 13%;
+   background: rgba(0,0,0,0.7);
+}
+#register_head{
+    background-color:rgba(2,174,240,0.7);
+}

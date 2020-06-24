@@ -1,0 +1,31 @@
+#desc{
+    width: 40%;
+    margin-left: 19.7%;
+    position: absolute;
+    top:12%;
+}
+#image{
+    width: 20%;
+    display: inline-block;
+}
+#cart_price{
+    width: 20%;
+    margin-left: 60%;
+    position: absolute;
+    top: 0;
+}
+#cart_price #cart_btn {
+    margin-left:39%;
+
+}
+#cart_price #price {
+    margin-left: 45%;
+}
+#game_name{
+    color: #117d10;
+    position: absolute;
+    top: 0;
+    margin-left: 19.7%;
+    font-weight: bolder;
+    font-size: 23px;
+}

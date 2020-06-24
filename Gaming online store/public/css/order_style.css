@@ -1,0 +1,41 @@
+#order_title{
+    background-color: navy;
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    height: 100px;
+}
+#order_table{
+    margin-left: 12.2%;
+    width: 75.7%;
+}
+#order_table tr{
+    height: 50px;
+    background-color: darkgray;
+}
+
+.invoice-title h2, .invoice-title h3 {
+    display: inline-block;
+}
+
+.table > tbody > tr > .no-line {
+    border-top: none;
+}
+
+.table > thead > tr > .no-line {
+    border-bottom: none;
+}
+
+.table > tbody > tr > .thick-line {
+    border-top: 2px solid;
+}
+#inputform
+{
+    width: 50%;
+
+}
+#textbox
+{
+    width: 50%;
+    height: 50px;
+}

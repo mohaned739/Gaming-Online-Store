@@ -1,0 +1,28 @@
+#blue_cont{
+    margin-left: 32%;
+}
+#back_cont
+{
+height: 800px;
+    background: url("../images/bg.jpg");
+    background-size:cover ;
+}
+#red_back{
+    height: 100%;
+    background: rgba(0,0,0,0.4);
+}
+#yellow_cont{
+    margin-top: 30%;
+    color: white;
+    width: 50%;
+    transition: 1s;
+    height: 50%;
+    background: rgba(0,0,0,0.5);
+    border-radius: 5%;
+}
+#login_form{
+    transition: 1s;
+}
+#yellow_cont:hover{
+    transform: scale(1.1);
+}
